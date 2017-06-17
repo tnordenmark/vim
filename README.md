@@ -1,4 +1,4 @@
 vim
 ===
 
-Configuration and plugins for vim and gvim.
+Configuration files and plugins for vim and gvim.
